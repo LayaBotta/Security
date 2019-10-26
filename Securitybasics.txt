@@ -1,2 +1,2 @@
 ### Security Basic
--- 
+-- https://www.tutorialspoint.com/distributed_dbms/distributed_dbms_concepts.htm
